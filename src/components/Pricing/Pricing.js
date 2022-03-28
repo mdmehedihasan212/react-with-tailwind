@@ -6,7 +6,7 @@ const Pricing = () => {
         { id: 1, name: 'Free', price: 0, benefits: ['lifetime free', 'unlimited use', 'only unlock feature', 'network medium', 'service limited'] },
         { id: 1, name: 'Medium', price: 8.55, benefits: ['extra service free', 'unlimited use', 'only extra 10 feature', 'network medium', 'service limited'] },
         { id: 1, name: 'High', price: 13.99, benefits: ['everything free', 'unlimited use', 'extra 20 feature', 'network high', 'service unlimited'] },
-        { id: 1, name: 'Super', price: 15.50, benefits: ['everything super fast', 'unlimited use', 'all feature', 'network super', 'service lifetime unlimited'] },
+        { id: 1, name: 'Super', price: 15.55, benefits: ['everything super fast', 'unlimited use', 'all feature', 'network super', 'service lifetime unlimited'] },
     ]
     return (
         <div className='bg-indigo-200 p-2 m-2'>
