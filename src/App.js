@@ -7,9 +7,9 @@ function App() {
   return (
     <div className="App">
       <Header></Header>
-      <h1 className="text-5xl">
+      {/* <h1 className="text-5xl">
         Hello world!
-      </h1>
+      </h1> */}
       <Pricing></Pricing>
     </div>
   );

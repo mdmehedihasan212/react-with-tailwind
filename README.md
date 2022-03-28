@@ -4,4 +4,4 @@ Click here: (https://github.com/mdmehedihasan212/react-with-tailwind)
 
 # Project Details
 
-This project overview react relation with tailwind. How install tailwind in react app. Add navigation bar and responsive navbar with humber menu icon.
+This project overview react relation with tailwind. How install tailwind in react app. Add navigation bar and responsive navbar with humber menu icon. We used hero icon.
